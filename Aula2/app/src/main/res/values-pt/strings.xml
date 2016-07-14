@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_login">Acessar</string>
+    <string name="et_user">Usuário</string>
+    <string name="et_password">Senha</string>
+    <string name="show_msg">Exibir Mensagem</string>
+    <string name="call_phone">Chamada Telefônica</string>
+    <string name="open_web">Abrir Navegador</string>
+</resources>

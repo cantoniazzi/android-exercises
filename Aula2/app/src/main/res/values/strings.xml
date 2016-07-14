@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aula2</string>
+    <string name="btn_login">Login</string>
+    <string name="et_user">User</string>
+    <string name="et_password">Password</string>
+    <string name="show_msg">Show Message</string>
+    <string name="call_phone">Call Phone</string>
+    <string name="open_web">Open Browser</string>
+</resources>
