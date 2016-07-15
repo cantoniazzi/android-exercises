@@ -2,4 +2,5 @@
     <string name="app_name">Aula3</string>
     <string name="btn_left">Load</string>
     <string name="btn_right">Save</string>
+    <string name="settings">Settings</string>
 </resources>
